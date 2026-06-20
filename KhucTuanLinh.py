@@ -1,3 +1,4 @@
+#Khuc Tuan Linh, TH30.10, MSV: 3025129137
 import pygame
 import random
 import math
